@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/TEAMPURVI/ALPHA_SPAM",
+    "repository": "https://github.com/SUSANTxBOTS/ALPHA_SPAM",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
@@ -92,3 +92,4 @@
         }
     ]
 }
+

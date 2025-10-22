@@ -1,3 +1,4 @@
+
 import logging
 
 from telethon import TelegramClient
@@ -46,3 +47,6 @@ X7 = TelegramClient('X7', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
 X8 = TelegramClient('X8', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
 X9 = TelegramClient('X9', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
 X10 = TelegramClient('X10', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
+
+# BY PRIMEHYPER ////////
+

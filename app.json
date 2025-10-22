@@ -1,6 +1,6 @@
 {
-    "name": "𝐀ʟᴘʜᴀ 𝐒ᴘᴀᴍ.",
-    "logo": "https://telegra.ph/file/e484dc030e63494789be5.jpg",
+    "name": "𝗛𝗬𝗣𝗘𝗥 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧",
+    "logo": "https://files.catbox.moe/rsvmf6.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -67,12 +67,12 @@
       },
       "SUDO_USERS": {
         "description": "Sudo users id space by space",
-        "value": "",
+        "value": "8156708830",
         "required": false
       },
       "OWNER_ID": {
         "description": "Owner Id",
-        "value": "",
+        "value": "7968389767",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -92,3 +92,5 @@
         }
     ]
 }
+
+
